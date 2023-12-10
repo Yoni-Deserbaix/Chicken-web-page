@@ -21,8 +21,6 @@ The project utilizes the following technologies and tools:
 
 This project was deployed to demonstrate my skills in visual design and React component development. While it doesn't currently contain advanced features, it serves as a useful example of reusable components. The intention is to expand it in the future to add functionality and evolve it into a more comprehensive project.
 
-## Screenshots
-![chicken](https://github.com/YD-SavvyDev/Chicken-project/blob/main/Screenshots/chicken.png)
 
 ## About
 
