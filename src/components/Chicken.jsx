@@ -1,10 +1,10 @@
 import React from "react";
 
-function Chicken({ img, title, caption }) {
+function Chicken(props) {
     return <div className="chicken">
-        <h3 className="chicken_title">{title}</h3>
-        <img className="chicken_img" src={img} alt="" />
-        <p className="chicken_caption">{caption}</p>
+        <h3 className="chicken_title">{props.title}</h3>
+        <img className="chicken_img" src={props.img} alt="" />
+        <p className="chicken_caption">{props.caption}</p>
     </div>
 }
 
