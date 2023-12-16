@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Chicken-web-page/static/css/main.3144ee58.css",
+    "main.js": "/Chicken-web-page/static/js/main.c1eef810.js",
+    "index.html": "/Chicken-web-page/index.html",
+    "main.3144ee58.css.map": "/Chicken-web-page/static/css/main.3144ee58.css.map",
+    "main.c1eef810.js.map": "/Chicken-web-page/static/js/main.c1eef810.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3144ee58.css",
+    "static/js/main.c1eef810.js"
+  ]
+}
