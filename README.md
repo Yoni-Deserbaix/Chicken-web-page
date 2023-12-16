@@ -2,6 +2,10 @@
 
 This project was created with the aim of discovering the React framework and exploring the creation of web components. It's a simple web page displaying a list of chicken-based dishes. The primary goal was to familiarize myself with React, learn how to design reusable components, and deploy them.
 
+## View projet 👀
+
+Check out the project online 👉 [here](https://yoni-deserbaix.github.io/Chicken-web-page/)
+
 ## Project Objectives
 
 - Discovering and learning React and component creation.
